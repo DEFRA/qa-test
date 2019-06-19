@@ -7,6 +7,7 @@ This is a holding page - we are trialling putting information on GitHub to help 
 ## Pages
 
 [Accessibility](/accessibility/accessibility.md)
+[GitHub](/github/github.md)
 
 ## Help and support
 
