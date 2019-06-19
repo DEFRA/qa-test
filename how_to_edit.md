@@ -12,7 +12,7 @@ With GitHub, we should usually work on a branch of the main repository in order 
 
 However, take care to ensure that your changes are correct before you push them, especially if you're deleting anything.
 
-You won't need the terminal commands if using GitHub Desktop.
+The process is as follows - you won't need the terminal commands if using GitHub Desktop:
 
 * In the folder for this repository, pull the latest code. (`git pull`)
 * Use [Markdown](https://guides.github.com/features/mastering-markdown/) to make your changes.
@@ -20,4 +20,4 @@ You won't need the terminal commands if using GitHub Desktop.
 * Commit your changes with a concise message. (`git commit -a -m "A message to say what you're committing"`)
 * Push your changes. (`git push -u origin master`)
 
-The detailed GitHub process is on the [GitHub](github.md) page.
+The detailed GitHub process is on the [GitHub](/github/github.md) page.
