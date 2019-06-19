@@ -6,7 +6,7 @@ This page covers setting up [GitHub](https://github.com) and using it for your t
 
 GitHub is a tool used to store open-source code (such as test suites) and allow people to collaborate on it.
 
-It's logical and powerful but not immediately intuitive, so this guide aims to make it easy.
+It's logical and powerful but not immediately intuitive, so this guide aims to make it easier.
 
 In short, it helps you create a copy (branch) of existing code, make changes to it, commit (save) them, push them back to GitHub, get the changes reviewed via a pull request, then merge them into the main code.
 
@@ -169,5 +169,5 @@ Whichever method you use, speak to a colleague who has done something similar, w
 
 ## GitHub guides
 
-[GitHub Hello World tutorial](https://guides.github.com/activities/hello-world/)
-[Using Git with Terminal](https://github.com/codepath/ios_guides/wiki/Using-Git-with-Terminal)
+* [GitHub Hello World tutorial](https://guides.github.com/activities/hello-world/)
+* [Using Git with Terminal](https://github.com/codepath/ios_guides/wiki/Using-Git-with-Terminal)
