@@ -13,4 +13,4 @@ GitHub has two main disadvantages:
 * Internet Explorer is not formally supported. It is still usable, but if you can, we recommend accessing it through Chrome.
 * It can appear daunting if you've never used it before.
 
-However, there is a wealth of information available on how to use GitHub. See [the GitHub page](/github/github.md) for more information.
+However, there is a wealth of information available on how to use GitHub. See [the GitHub page](/github) for more information.

@@ -6,8 +6,8 @@ This is a holding page - we are trialling putting information on GitHub to help 
 
 ## Guides
 
-* [Accessibility](/accessibility/accessibility.md)
-* [GitHub](/github/github.md)
+* [Accessibility](/accessibility)
+* [GitHub](/github)
 
 ## Help and support
 
