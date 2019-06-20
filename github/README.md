@@ -1,7 +1,5 @@
 # GitHub
 
-
-
 This page covers setting up [GitHub](https://github.com) and using it for your test repository.
 
 GitHub is a tool used to store open-source code (such as test suites) and allow people to collaborate on it.
@@ -35,7 +33,7 @@ Once you have these, then:
 * Navigate to the root folder in your command line with `cd ~`
 * Create and navigate to a projects folder: `mkdir projects` and `cd projects`
 * Copy the latest code from the repository you're working with. For example, `git clone https://github.com/DEFRA/qa-test.git`
-* Navigate to the prototype folder: `cd qa-test`
+* Navigate to the repository folder: `cd qa-test`
 
 You should now be ready to start work on a repository.
 

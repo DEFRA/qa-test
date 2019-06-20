@@ -2,7 +2,8 @@
 
 How we do quality assurance and testing in Defra (the UK's Department for Environment, Food and Rural Affairs).
 
-This is a holding page - we are trialling putting information on GitHub to help us work in the open.
+It is not yet complete and we are still testing out the format. Right now, we'd welcome any feedback on whether we should use [readme format](/accessibility) or [wiki format](/wiki/Accessibility).
+
 
 ## Guides
 

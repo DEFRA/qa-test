@@ -1,4 +1,4 @@
-## Why GitHub?
+# Why GitHub?
 
 We work in the open by default and GitHub is the easiest way to do this. It has the advantages of being:
 
