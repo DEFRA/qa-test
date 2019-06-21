@@ -2,15 +2,17 @@
 
 How we do quality assurance and testing in Defra (the UK's Department for Environment, Food and Rural Affairs).
 
-It is not yet complete and we are still testing out the format. Right now, we'd welcome any feedback on whether we should use [readme format](/accessibility) or [wiki format](https://github.com/DEFRA/qa-test/wiki/Accessibility).
+[Defra QA and test wiki](https://github.com/DEFRA/qa-test/wiki)
 
+We work in the open by default, so are gradually moving whatever information we can from our internal network.
 
-## Guides
+We recommend that you use Chrome to access these pages, as Internet Explorer is not supported (though it's still readable).
 
-* [Accessibility](/accessibility)
-* [GitHub](/github)
+[Why GitHub?](https://github.com/DEFRA/qa-test/wiki/Why-GitHub)
 
-## Help and support
+## Other teams
 
-* [How to edit](how_to_edit.md)
-* [Why GitHub?](why_github.md)
+Other digital teams have produced their own guides:
+
+* [Design](https://github.com/DEFRA/design)
+* [Development](https://github.com/DEFRA/software-development-standards)
