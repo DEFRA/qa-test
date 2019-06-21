@@ -1,10 +1,10 @@
 # Quality assurance and test in Defra
 
-How we do quality assurance and testing in Defra (the UK's Department for Environment, Food and Rural Affairs).
+These pages covers how we do quality assurance and testing in Defra (the UK's Department for Environment, Food and Rural Affairs).
 
-[Defra QA and test wiki](https://github.com/DEFRA/qa-test/wiki)
+> [Visit the Defra QA and test wiki](https://github.com/DEFRA/qa-test/wiki)
 
-We work in the open by default, so are gradually moving whatever information we can from our internal network.
+We work in the open by default, so are gradually moving whatever information we can from our internal network. We're not yet finished, so bear with us.
 
 We recommend that you use Chrome to access these pages, as Internet Explorer is not supported (though it's still readable).
 
