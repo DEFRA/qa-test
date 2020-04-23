@@ -1,0 +1,108 @@
+2020-04-23 08:11:26,151 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2020-04-23 08:11:26,197 INFO o.a.j.JMeter: Loading user properties from: /usr/local/Cellar/jmeter/5.2.1/libexec/bin/user.properties
+2020-04-23 08:11:26,198 INFO o.a.j.JMeter: Loading system properties from: /usr/local/Cellar/jmeter/5.2.1/libexec/bin/system.properties
+2020-04-23 08:11:26,200 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2020-04-23 08:11:26,201 INFO o.a.j.JMeter: Version 5.2.1
+2020-04-23 08:11:26,201 INFO o.a.j.JMeter: java.version=1.8.0_141
+2020-04-23 08:11:26,201 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2020-04-23 08:11:26,201 INFO o.a.j.JMeter: os.name=Mac OS X
+2020-04-23 08:11:26,201 INFO o.a.j.JMeter: os.arch=x86_64
+2020-04-23 08:11:26,201 INFO o.a.j.JMeter: os.version=10.15.3
+2020-04-23 08:11:26,201 INFO o.a.j.JMeter: file.encoding=UTF-8
+2020-04-23 08:11:26,201 INFO o.a.j.JMeter: java.awt.headless=null
+2020-04-23 08:11:26,201 INFO o.a.j.JMeter: Max memory     =1073741824
+2020-04-23 08:11:26,202 INFO o.a.j.JMeter: Available Processors =4
+2020-04-23 08:11:26,208 INFO o.a.j.JMeter: Default Locale=English (EN)
+2020-04-23 08:11:26,209 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2020-04-23 08:11:26,209 INFO o.a.j.JMeter: JMeterHome=/usr/local/Cellar/jmeter/5.2.1/libexec
+2020-04-23 08:11:26,209 INFO o.a.j.JMeter: user.dir  =/Users/andrew/projects/qa-test
+2020-04-23 08:11:26,209 INFO o.a.j.JMeter: PWD       =/Users/andrew/projects/qa-test
+2020-04-23 08:11:26,227 INFO o.a.j.JMeter: IP: 192.168.1.17 Name: ip-192-168-1-17.eu-west-2.compute.internal FullName: ip-192-168-1-17.eu-west-2.compute.internal
+2020-04-23 08:11:31,505 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2020-04-23 08:11:31,539 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2020-04-23 08:11:31,539 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2020-04-23 08:11:31,892 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2020-04-23 08:11:34,191 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=mac_os_x-0ed94d9ec9de7606adced1a4e00d24cd-gui
+2020-04-23 08:11:37,419 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-casutg=2.9, jpgc-graphs-dist=2.0, jpgc-plugins-manager=1.4, jmeter-core=5.2.1, jmeter-ftp=5.2.1, jmeter-http=5.2.1, jmeter-jdbc=5.2.1, jmeter-jms=5.2.1, jmeter-junit=5.2.1, jmeter-java=5.2.1, jmeter-ldap=5.2.1, jmeter-mail=5.2.1, jmeter-mongodb=5.2.1, jmeter-native=5.2.1, jmeter-tcp=5.2.1, jmeter-components=5.2.1]
+2020-04-23 08:11:38,036 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-04-23 08:11:38,037 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-04-23 08:11:38,037 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-04-23 08:11:38,037 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-04-23 08:11:38,037 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-04-23 08:11:38,037 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-04-23 08:11:38,641 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2020-04-23 08:11:38,642 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /usr/local/Cellar/jmeter/5.2.1/libexec/bin/proxyserver.jks
+2020-04-23 08:11:38,845 INFO o.a.j.s.FileServer: Default base='/Users/andrew/projects/qa-test'
+2020-04-23 08:11:39,315 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-04-23 08:11:39,315 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2020-04-23 08:11:39,316 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-04-23 08:11:39,316 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2020-04-23 08:12:20,314 INFO o.a.j.g.a.Load: Loading file: /Users/andrew/projects/jmeter/wcr-load.jmx
+2020-04-23 08:12:20,315 INFO o.a.j.s.FileServer: Set new base='/Users/andrew/projects/jmeter'
+2020-04-23 08:12:20,525 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2020-04-23 08:12:20,537 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2020-04-23 08:12:20,540 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2020-04-23 08:12:20,544 INFO o.a.j.s.SaveService: Loading file: /Users/andrew/projects/jmeter/wcr-load.jmx
+2020-04-23 08:12:20,815 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2020-04-23 08:12:21,176 INFO o.a.j.s.FileServer: Set new base='/Users/andrew/projects/jmeter'
+2020-04-23 08:17:37,139 INFO o.a.j.g.a.Load: Loading file: /Users/andrew/projects/jmeter/wex/wex.jmx
+2020-04-23 08:17:37,141 INFO o.a.j.s.FileServer: Set new base='/Users/andrew/projects/jmeter/wex'
+2020-04-23 08:17:37,142 INFO o.a.j.s.SaveService: Loading file: /Users/andrew/projects/jmeter/wex/wex.jmx
+2020-04-23 08:17:37,514 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2020-04-23 08:17:37,515 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2020-04-23 08:17:38,056 INFO o.a.j.s.FileServer: Set new base='/Users/andrew/projects/jmeter/wex'
+2020-04-23 08:18:08,451 INFO o.a.j.g.a.Load: Loading file: /Users/andrew/projects/jmeter/wcr-load.jmx
+2020-04-23 08:18:08,453 INFO o.a.j.s.FileServer: Set new base='/Users/andrew/projects/jmeter'
+2020-04-23 08:18:08,453 INFO o.a.j.s.SaveService: Loading file: /Users/andrew/projects/jmeter/wcr-load.jmx
+2020-04-23 08:18:08,664 INFO o.a.j.s.FileServer: Set new base='/Users/andrew/projects/jmeter'
+2020-04-23 08:35:57,665 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-04-23 08:35:57,667 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-04-23 08:35:57,668 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-04-23 08:35:57,698 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2020-04-23 08:35:58,040 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2020-04-23 08:35:58,040 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2020-04-23 08:35:58,040 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-04-23 08:35:58,041 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2020-04-23 08:35:58,046 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2020-04-23 08:35:58,046 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-04-23 08:35:58,073 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2020-04-23 08:35:58,102 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = ip-192-168-1-17.eu-west-2.compute.internal
+2020-04-23 08:35:58,113 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2020-04-23 08:35:58,198 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2020-04-23 08:35:58,201 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2020-04-23 08:35:58,201 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2020-04-23 08:35:58,229 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2020-04-23 08:35:58,231 INFO o.a.j.u.SSLManager: KeyStore created OK
+2020-04-23 08:35:58,231 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2020-04-23 08:36:00,754 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2020-04-23 08:36:00,755 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2020-04-23 08:36:00,756 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-04-23 08:36:00,756 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2020-04-23 08:36:46,508 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-04-23 08:36:46,509 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-04-23 08:36:46,521 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2020-04-23 08:36:46,749 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2020-04-23 08:36:46,749 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2020-04-23 08:36:46,749 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-04-23 08:36:46,749 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2020-04-23 08:36:46,753 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2020-04-23 08:36:46,753 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-04-23 08:36:46,756 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2020-04-23 08:36:48,949 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2020-04-23 08:36:48,949 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2020-04-23 08:36:48,951 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-04-23 08:36:48,952 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2020-04-23 08:37:05,049 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-04-23 08:37:05,050 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-04-23 08:37:05,055 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2020-04-23 08:37:05,232 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2020-04-23 08:37:05,234 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2020-04-23 08:37:05,235 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-04-23 08:37:05,236 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2020-04-23 08:37:05,240 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2020-04-23 08:37:05,241 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-04-23 08:37:05,243 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2020-04-23 08:37:12,915 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2020-04-23 08:37:12,916 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2020-04-23 08:37:12,917 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-04-23 08:37:12,917 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
