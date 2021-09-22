@@ -1,0 +1,45 @@
+name,ring,quadrant,isNew,description
+HP ALM,hold,project,FALSE,HP ALM for test case management for manual tests.  ON HOLD - Not great for Agile projects...or erm...projects
+Azure Dev Ops (TestMgr),trial,project,FALSE,"VSTS is the chosen tool to replace ALM.  However, struggling with licence arrangements and administration support"
+YSlow,adopt,system testing,FALSE,YSlow is a mature plugin for Firefox and Chrome that assess the performance of a web page (useful as our services and not accessible publically into production)
+SSLCheck,adopt,system testing,FALSE,Tool for checking the quality of the SSL certificate provided
+Nessus,trial,system testing,TRUE,Security scanning tool
+Protractor,trial,functional testing,TRUE,Mature google supported functional testing framework.  
+Nightwatchjs,adopt,functional testing,TRUE,Node.js testing framework - On hold as we are concerned by the sustainability of the solution
+Jmeter,mature,system testing,FALSE,Performance testing tool http://jmeter.apache.org/
+Gatling,trial,system testing,FALSE,Performance testing tool https://gatling.io/
+Litmus,adopt,user experience,TRUE,Email testing tool litmus.com
+Browserstack,mature,functional testing,FALSE,Browserstack is now the main stalwart of device testing within the Agency.
+WebdriverIO,adopt,functional testing,TRUE,Selenium 2.0 bindings for NodeJS
+Cucumber,mature,functional testing,FALSE,Behaviour driven development (BDD) framework
+Capybara,mature,functional testing,FALSE,Ruby on rails test automation framework DSL
+JIRA,mature,project,TRUE,JIRA began as a defect management tool but it's high customisation and plugins indicate it to be a viable Application Lifecycle Management Tool.
+Zed Attack Proxy,adopt,system testing,TRUE,Vulnernability asessment tool
+Wave,mature,user experience,TRUE,Accessibility testing browser plug in (Chrome) http://wave.webaim.org/
+GitHub,mature,project,FALSE,Source control tool used by EA and RPA
+Gitlab,mature,project,FALSE,Source control tool used by EA and RPA
+SonarQube,trial,system testing,TRUE,Mature (outside defra) static code analysis code
+BlazeMeter,trial,system testing,TRUE,Mature platform for executing JMeter scripts and trend analysis.  Trends of JMeter currently via rudementary in Jenkins.  Currently not used in DEFRA
+Rest Assured,trial,system testing,FALSE,"Rest assured is an API testing tool.  Mature development base.  JMeter has been used for API testing and some in the past have used Selenium, SOAP UI.  Be good to demo this as a community to DEFRA testers."
+Selenium Grid,trial,system testing,TRUE,Selenium grid is a mature browser testing solution
+JSLint,adopt,system testing,FALSE,Tool used to validate Javascript
+A11yMachine Accessibility Testing,hold,system testing,TRUE,Tools used to automate acceessibility testing.  EUX have stopped using this tool.  No information received why.  Moved to hold
+Taurus,trial,system testing,TRUE,Test automation framework based on JMeter used on the verification stack but not used in DEFRA
+Postman,mature,system testing,FALSE,Postman is the API client for Chrome. Used to test API request and resposnes DR
+Newman,trial,system testing,TRUE,Newman is the command line integration tool for API testing (install using npm). This enables me to run API collections created in Postman fromt the command line.
+UFT,hold,functional testing,FALSE,UFT is now deprecated as legacy.  As of 2018/19 only one licence will be retained in order to keep the capability
+Katalon Studio,hold,functional testing,TRUE,"Built on the top of Selenium and Appium, Katalon Studio is a free and powerful automated testing tool for web testing, mobile testing, and API testing.  Jon Hatfield but due to machine problems the trial has not progressed.  "
+cucumberjs,adopt,functional testing,TRUE,"This is a cucumber js framework, works with Nodejs. This framework uses the following technologies:- 
+Note JS
+Selenium webdriver
+Pafe Factory(Page object model structure)
+Cucumber
+Gherkin(BDD)
+Jenkins(Easy 2 step process to integrate with Jenkins/Bamboo or any other CI tool for Continuous Integration)
+Cucumber Reports :- Include Feature wise reporting and test wise reporting
+Browserstack
+Runs on Chrome emulators(Mobile- Android, iOS, Tablet)
+Desktop crossbrowser testing
+Built in Fake Data server to create and run mock data for functional testing - this can be used separately as well
+This fake data server is run on Nodejs. and can be used with Jenkins as well for Continuous Integration"
+X-ray,trial,project,TRUE,XRay is a test case management tool bolt onto JIRA.
