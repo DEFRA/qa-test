@@ -15,4 +15,4 @@ We recommend that you use Chrome to access these pages, as Internet Explorer is 
 Other digital teams have produced their own guides:
 
 * [Design](https://github.com/DEFRA/design)
-* [Development](https://github.com/DEFRA/software-development-standards)
+* [Development](https://defra.github.io/software-development-standards/)
